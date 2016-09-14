@@ -1,2 +1,2 @@
 # Auth-API 
-Sistema para autênticação de usário em api, com rotas para pegar informações do usuário
+Sistema para autênticação de usúario para api rest, com rota para pegar informações do usuário
